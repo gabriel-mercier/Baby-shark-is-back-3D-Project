@@ -19,6 +19,10 @@ Welcome to the "Baby Shark is Back" project! This project was developed as part 
 1. Clone the GitHub repository:
    ```bash
    git clone https://github.com/gitgab22/Baby-shark-is-back-3D-Project.git
+2. Generate necessary files:
+   Go to scenes_inf433/project/scripts and launch the _cmake_visual.bat files depending on your OS
+3. Open:
+   scenes_inf433/project/project.sln, Microsoft Visual Studio is recommended
 
 ## Usage
 By default, the project starts in first-person camera mode.
