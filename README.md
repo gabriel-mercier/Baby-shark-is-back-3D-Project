@@ -1,7 +1,7 @@
 # Baby Shark is Back
 
 ## Description
-Welcome to the "Baby Shark is Back" project! This project was developed as part of the INF443 course using CPG librairy. Our goal was to create an underwater 3D scene with a cartoon aesthetic.
+Welcome to the "Baby Shark is Back" project! This project was developed as part of the INF443 course using CPG librairy. Our goal was to create an underwater 3D scene with a cartoon aesthetic. Youtube video : https://youtu.be/PxGEFRtR4G4
 
 
 ![Underwater Scene Preview](images/Illustration.png)
