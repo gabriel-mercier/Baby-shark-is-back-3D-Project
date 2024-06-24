@@ -3,6 +3,9 @@
 ## Description
 Welcome to the "Baby Shark is Back" project! This project was developed as part of the INF443 course. Our goal was to create an underwater 3D scene with a cartoon aesthetic. We utilized our accumulated knowledge throughout the term to develop this fun and educational project.
 
+
+![Underwater Scene Preview](images/Illustration.png)
+
 ## Features
 - **Boids Model for Sharks**: Sharks are simulated with repulsion, alignment, and attraction forces, creating realistic group movements.
 - **Oscillating Shader**: Simulates the swimming motion of sharks and seaweed.
