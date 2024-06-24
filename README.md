@@ -1,7 +1,7 @@
 # Baby Shark is Back
 
 ## Description
-Welcome to the "Baby Shark is Back" project! This project was developed as part of the INF443 course. Our goal was to create an underwater 3D scene with a cartoon aesthetic. We utilized our accumulated knowledge throughout the term to develop this fun and educational project.
+Welcome to the "Baby Shark is Back" project! This project was developed as part of the INF443 course using CPG librairy. Our goal was to create an underwater 3D scene with a cartoon aesthetic.
 
 
 ![Underwater Scene Preview](images/Illustration.png)
@@ -19,3 +19,17 @@ Welcome to the "Baby Shark is Back" project! This project was developed as part 
 1. Clone the GitHub repository:
    ```bash
    git clone https://github.com/gitgab22/Baby-shark-is-back-3D-Project.git
+
+## Usage
+By default, the project starts in first-person camera mode.
+To switch to external camera mode, comment/uncomment the indicated code sections in scene.hpp and scene.cpp.
+
+## Project Structure
+- **fonctions.cpp**: Utility functions for geometric and simulation calculations.
+- **interpolation.cpp**: Interpolation functions for bubble trajectories.
+- **scene.cpp**: Initialization and rendering of the scene, shark simulation.
+- **terrain.cpp**: Underwater terrain generation and random position generation.
+
+## Authors
+Gabriel Mercier
+Pierre-Antoine M.
